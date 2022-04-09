@@ -63,3 +63,13 @@ Chapter 4 code_Project_21 The second part 2 of "The Arduino World Book" code_Pro
 - Embedded Systems
 - Mobiles
 
+# Final Thoughts
+This was a really fun project and I am very happy with the result. But there is always room for improvement and further development. For example; Setting the clock using the light sensor. Adding more animations. Only the imagination sets the limits.
+
+# Parts
+- WS2812 RGB LED strip, 60 LED/m, 1m
+- DS3231 Real Time Clock Module
+- Resistor 330 Ω
+- Resistor 10 KΩ
+- Photo resistor (GL5539, 10 Lux:50-100 KΩ)
+- Electrolytic Capacitor 100uf
