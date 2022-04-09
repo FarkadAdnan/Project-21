@@ -26,6 +26,7 @@ Chapter 4 code_Project_21 The second part 2 of "The Arduino World Book" code_Pro
 - code_Project_81-FastLED [fastled](https://github.com/FarkadAdnan/code_Project_81-FastLED).
 -  Library [The FastLED library](https://github.com/FastLED/FastLED).
 -  DS3231 [maximintegrated](https://www.maximintegrated.com/en/products/analog/real-time-clocks/DS3231.html).
+-  Library: DS3231 [rinkydinkelectronics](http://www.rinkydinkelectronics.com/library.php?id=73).
 
 # مشروع ساعة O-Clock 
 ![1](https://user-images.githubusercontent.com/35774039/162553359-b69cb760-1ed0-48f8-839c-7705a75874f5.JPG)
